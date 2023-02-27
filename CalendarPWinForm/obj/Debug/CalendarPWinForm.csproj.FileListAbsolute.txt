@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\CalendarPWinForm\CalendarPWinForm\bin\Debug\CalendarPWinForm.exe.config
+C:\Users\Acer\source\repos\CalendarPWinForm\CalendarPWinForm\bin\Debug\CalendarPWinForm.exe
+C:\Users\Acer\source\repos\CalendarPWinForm\CalendarPWinForm\bin\Debug\CalendarPWinForm.pdb
+C:\Users\Acer\source\repos\CalendarPWinForm\CalendarPWinForm\obj\Debug\CalendarPWinForm.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\CalendarPWinForm\CalendarPWinForm\obj\Debug\CalendarPWinForm.Form1.resources
+C:\Users\Acer\source\repos\CalendarPWinForm\CalendarPWinForm\obj\Debug\CalendarPWinForm.Properties.Resources.resources
+C:\Users\Acer\source\repos\CalendarPWinForm\CalendarPWinForm\obj\Debug\CalendarPWinForm.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\CalendarPWinForm\CalendarPWinForm\obj\Debug\CalendarPWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\CalendarPWinForm\CalendarPWinForm\obj\Debug\CalendarPWinForm.exe
+C:\Users\Acer\source\repos\CalendarPWinForm\CalendarPWinForm\obj\Debug\CalendarPWinForm.pdb
+C:\Users\Acer\source\repos\CalendarPWinForm\CalendarPWinForm\obj\Debug\CalendarPWinForm.Form3.resources
